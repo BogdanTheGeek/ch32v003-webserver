@@ -1,0 +1,9 @@
+**/*.lst
+**/*.map
+**/*.hex
+**/*.elf
+**/*.bin
+**/*.last.session
+**/*.swo
+**/*.swp
+**/compile_commands.json
